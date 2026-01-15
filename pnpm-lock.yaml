@@ -66,7 +66,6 @@ importers:
       '@babel/plugin-transform-runtime': ^7.24.3
       '@babel/preset-env': ^7.24.4
       '@rollup/plugin-babel': ^6.0.4
-      '@vcloud-lux/vite-plugin-slardar': 0.0.1-beta.6
       '@vitejs/plugin-basic-ssl': ^1.1.0
       '@vitejs/plugin-legacy': ^5.3.2
       '@vitejs/plugin-vue': ^5.0.4
@@ -112,7 +111,6 @@ importers:
       '@babel/plugin-transform-runtime': 7.26.10_@babel+core@7.26.10
       '@babel/preset-env': 7.26.9_@babel+core@7.26.10
       '@rollup/plugin-babel': 6.0.4_@babel+core@7.26.10
-      '@vcloud-lux/vite-plugin-slardar': 0.0.1-beta.6
       '@vitejs/plugin-legacy': 5.4.3_terser@5.39.0
       '@vitejs/plugin-vue': 5.2.3
       abortcontroller-polyfill: 1.7.8
@@ -2127,7 +2125,7 @@ packages:
     dependencies:
       '@babel/core': 7.26.10
       '@svgr/babel-preset': 8.1.0_@babel+core@7.26.10
-      '@svgr/core': 8.1.0
+      '@svgr/core': 8.1.0_typescript@5.8.2
       '@svgr/hast-util-to-babel-ast': 8.0.0
       svg-parser: 2.0.4
     transitivePeerDependencies:
@@ -2585,10 +2583,6 @@ packages:
     dependencies:
       vue: 3.5.13_typescript@5.8.2
     dev: false
-
-  /@vcloud-lux/vite-plugin-slardar/0.0.1-beta.6:
-    resolution: {integrity: sha512-4+TVBdKCsSnaDzprOUZhN7/q5HeQXzfh7CtSN+2ruKwQy5CvYz23oofePPvAUeq26MxwipRNM0aQDuT8k8awpg==}
-    dev: true
 
   /@vitejs/plugin-basic-ssl/1.2.0:
     resolution: {integrity: sha512-mkQnxTkcldAzIsomk1UuLfAu9n+kpQ3JbHcpCp7d2Oo6ITtji8pHS3QToOWjhPFvNQSnhlkAjmGbhv2QvwO/7Q==}
