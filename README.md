@@ -1,6 +1,6 @@
 # VePlayer H5 Demo
 基于火山引擎 Web 播放器 SDK [VePlayer](https://www.volcengine.com/docs/4/127897) 开发的 H5 场景化 Demo，
-以供开发者结合火山引擎提供的[视频点播](https://www.volcengine.com/product/vod)快速开发搭建Web视频播放应用。
+以供开发者结合火山引擎提供的[视频点播](https://www.volcengine.com/product/vod)快速开发搭建Web视频播放应用。独立部署前需替换[License配置](https://www.volcengine.com/docs/4/65772?lang=zh#e39298ab)。
 
 ## 编译运行
 ### 安装依赖

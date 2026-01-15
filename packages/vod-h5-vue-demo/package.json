@@ -17,7 +17,7 @@
   "dependencies": {
     "@babel/runtime": "^7.26.10",
     "@volcengine/imagex-vue3": "^2.0.0",
-    "@volcengine/veplayer": "1.9.5",
+   "@volcengine/veplayer": "1.15.1",
     "axios": "^1.6.8",
     "pinia": "^2.1.7",
     "swiper": "^11.1.1",
